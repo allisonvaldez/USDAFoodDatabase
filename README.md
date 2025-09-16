@@ -17,4 +17,4 @@ This is an analysis explores a database provided by the US Department of Agricul
 * Jupyter Notebook 
 
 ## Contact
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+If there are any questions or concerns the author may be contacted to discuss analysis and methodology.
